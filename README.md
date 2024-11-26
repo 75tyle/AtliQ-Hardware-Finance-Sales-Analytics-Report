@@ -71,4 +71,4 @@ The sales section delves into customer behavior, product performance, and market
 
 ---
 
-Feel free to explore the project files and dashboards included in this repository to understand AtliQ Hardware's financial and sales performance in depth.
+Feel free to explore the project files included in this repository to understand AtliQ Hardware's financial and sales performance in depth.
